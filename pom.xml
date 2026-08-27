@@ -169,11 +169,6 @@
             <artifactId>maven-plugin-annotations</artifactId>
             <version>3.15.2</version>
         </dependency>
-        <dependency>
-            <groupId>org.codehaus.plexus</groupId>
-            <artifactId>plexus-resources</artifactId>
-            <version>1.4.0</version>
-        </dependency>
     </dependencies>
 
     <profiles>
